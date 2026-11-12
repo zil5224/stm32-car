@@ -1,0 +1,26 @@
+# Keil build output
+/Objects/
+/Listings/
+*.o
+*.obj
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.lnp
+*.dep
+*.build_log.htm
+
+# Local Keil settings and debugger logs
+*.uvoptx
+*.uvguix.*
+*.uvgui.*
+*.bak
+JLinkLog.txt
+
+# Local hardware photos
+/docs/*.jpg
+/docs/*.jpeg
+/docs/*.png
